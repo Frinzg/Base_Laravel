@@ -12,4 +12,4 @@
     
     <script src="/js/app.js"></script>
 </body>
-</html>
+</html><?php /**PATH C:\laragon\www\project_laravel\resources\views/welcome.blade.php ENDPATH**/ ?>
